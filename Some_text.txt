@@ -1,0 +1,6 @@
+Hi there, nice meeting you all. Today we are demonstrating the number of words in a file using python.
+Ok, here we go.
+We must try to get the number of lines, sentences, words.
+Lines mean /n.
+Sentences mean anything separating the period.
+Words in general mean total words formed from letters.
